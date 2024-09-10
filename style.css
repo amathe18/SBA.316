@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: orange;
+}
+
+image{
+    position: relative;
+    border: 6px solid;
+    border-color: black;
+    padding: 5px;}
+
+div{
+    
+}
